@@ -1,0 +1,11 @@
+{
+  "name": "practice-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^16.1.0"
+  }
+}
